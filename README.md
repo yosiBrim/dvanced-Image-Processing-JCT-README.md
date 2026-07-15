@@ -5,8 +5,8 @@
 This repository contains the final semester project for the Advanced Image Processing course. The project focuses on frequency domain analysis (2D-DFT), image restoration, and automated License Plate Recognition (OCR).
 
 ## 👥 Authors
-* **Yosi Brim** (ID: 315512848)
-* **Elad Asbag** (ID: 318530482)
+* **Yosi Brim**
+* **Elad Asbag** 
 
 ## 📑 Project Overview
 
